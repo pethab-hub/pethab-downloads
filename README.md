@@ -31,6 +31,7 @@ Each ZIP contains the files needed to install and display the character locally,
 - [Sheet Formula Cadet](./characters/sheet-formula-cadet/download.zip)
 - [Silk Formula Analyst](./characters/silk-formula-analyst/download.zip)
 - [Silver Aegis Warrior](./characters/silver-aegis-warrior/download.zip)
+- [Suncrest Hero](./characters/suncrest-hero/download.zip)
 - [Tab Scout Runner](./characters/tab-scout-runner/download.zip)
 - [Time Slot Keeper](./characters/time-slot-keeper/download.zip)
 - [Trackball Homebody](./characters/trackball-homebody/download.zip)

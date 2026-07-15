@@ -25,6 +25,7 @@ Download the ZIP for the character you want to use.
 | Sheet Formula Cadet | [download.zip](./sheet-formula-cadet/download.zip) |
 | Silk Formula Analyst | [download.zip](./silk-formula-analyst/download.zip) |
 | Silver Aegis Warrior | [download.zip](./silver-aegis-warrior/download.zip) |
+| Suncrest Hero | [download.zip](./suncrest-hero/download.zip) |
 | Tab Scout Runner | [download.zip](./tab-scout-runner/download.zip) |
 | Time Slot Keeper | [download.zip](./time-slot-keeper/download.zip) |
 | Trackball Homebody | [download.zip](./trackball-homebody/download.zip) |
