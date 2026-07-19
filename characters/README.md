@@ -15,6 +15,7 @@ Download the ZIP for the character you want to use.
 | Cloud Archive Clerk | [download.zip](./cloud-archive-clerk/download.zip) |
 | Hub Crab Mechanic | [download.zip](./hub-crab-mechanic/download.zip) |
 | Hubframe Shifter | [download.zip](./hubframe-shifter/download.zip) |
+| Luma Sprint Scout — Pet + PC backgrounds | [download.zip](./luma-sprint-scout/download.zip) |
 | Mail Courier Muse | [download.zip](./mail-courier-muse/download.zip) |
 | Mic Pop Guard Pup | [download.zip](./mic-pop-guard-pup/download.zip) |
 | Namecard Sleeve Collector | [download.zip](./namecard-sleeve-collector/download.zip) |
@@ -33,3 +34,7 @@ Download the ZIP for the character you want to use.
 | Voice Memo Shell Listener | [download.zip](./voice-memo-shell-listener/download.zip) |
 | White Sprint Runner | [download.zip](./white-sprint-runner/download.zip) |
 | Window Operator Muse | [download.zip](./window-operator-muse/download.zip) |
+
+## Bundled PC backgrounds
+
+Luma Sprint Scout includes PC backgrounds in three sizes: 1920×1080, 2560×1440, and 3840×2160. After extracting the ZIP, read `wallpapers/README.md` and select a background manually. Wallpaper setup is not automatic.
