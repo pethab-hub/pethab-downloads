@@ -26,7 +26,7 @@ Download the ZIP for the character you want to use.
 | Sheet Formula Cadet | [download.zip](./sheet-formula-cadet/download.zip) |
 | Silk Formula Analyst | [download.zip](./silk-formula-analyst/download.zip) |
 | Silver Aegis Warrior | [download.zip](./silver-aegis-warrior/download.zip) |
-| Suncrest Hero | [download.zip](./suncrest-hero/download.zip) |
+| Suncrest Hero — Pet + PC background | [download.zip](./suncrest-hero/download.zip) |
 | Tab Scout Runner | [download.zip](./tab-scout-runner/download.zip) |
 | Time Slot Keeper | [download.zip](./time-slot-keeper/download.zip) |
 | Trackball Homebody | [download.zip](./trackball-homebody/download.zip) |
@@ -37,4 +37,10 @@ Download the ZIP for the character you want to use.
 
 ## Bundled PC backgrounds
 
+### Luma Sprint Scout
+
 Luma Sprint Scout includes PC backgrounds in three sizes: 1920×1080, 2560×1440, and 3840×2160. After extracting the ZIP, read `wallpapers/README.md` and select a background manually. Wallpaper setup is not automatic.
+
+### Suncrest Hero
+
+Suncrest Hero includes one 1920×1080 PC background. After extracting the ZIP, read `bonus/README-ja.md` and use `bonus/wallpapers/suncrest-hero-desktop-wallpaper.png`. Wallpaper setup is not automatic.

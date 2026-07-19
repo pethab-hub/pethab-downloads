@@ -32,7 +32,7 @@ Each ZIP contains the files needed to install and display the character locally,
 - [Sheet Formula Cadet](./characters/sheet-formula-cadet/download.zip)
 - [Silk Formula Analyst](./characters/silk-formula-analyst/download.zip)
 - [Silver Aegis Warrior](./characters/silver-aegis-warrior/download.zip)
-- [Suncrest Hero](./characters/suncrest-hero/download.zip)
+- [Suncrest Hero](./characters/suncrest-hero/download.zip) — Pet + PC background (1920×1080)
 - [Tab Scout Runner](./characters/tab-scout-runner/download.zip)
 - [Time Slot Keeper](./characters/time-slot-keeper/download.zip)
 - [Trackball Homebody](./characters/trackball-homebody/download.zip)
@@ -48,6 +48,11 @@ Each ZIP contains the files needed to install and display the character locally,
 3. Add the extracted character folder to your local PETS folder.
 4. Restart or refresh the host app and select the character.
 
-For Luma Sprint Scout, open `wallpapers/README.md` in the extracted folder and manually select the PC background matching your display. Wallpaper setup is not automatic.
+Bundled PC background setup:
+
+- Luma Sprint Scout: open `wallpapers/README.md` and manually select the image matching your display.
+- Suncrest Hero: open `bonus/README-ja.md` and use `bonus/wallpapers/suncrest-hero-desktop-wallpaper.png`.
+
+Wallpaper setup is not automatic.
 
 The packages are independent custom character assets. Redistribution, resale as-is, or claims of official endorsement are not included.
