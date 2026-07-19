@@ -6,7 +6,7 @@ Public download repository for PetHab character packages.
 
 Open [characters](./characters/) and download the `download.zip` file for the character you want to use.
 
-Each ZIP contains the files needed to install and display the character locally, including `pet.json` and the character spritesheet.
+Each ZIP contains the files needed to install and display the character locally, including `pet.json` and the character spritesheet. Entries marked as a bundle also contain the listed optional assets.
 
 ## Characters
 
@@ -21,6 +21,7 @@ Each ZIP contains the files needed to install and display the character locally,
 - [Cloud Archive Clerk](./characters/cloud-archive-clerk/download.zip)
 - [Hub Crab Mechanic](./characters/hub-crab-mechanic/download.zip)
 - [Hubframe Shifter](./characters/hubframe-shifter/download.zip)
+- [Luma Sprint Scout](./characters/luma-sprint-scout/download.zip) — Pet + PC backgrounds (1920×1080, 2560×1440, 3840×2160)
 - [Mail Courier Muse](./characters/mail-courier-muse/download.zip)
 - [Mic Pop Guard Pup](./characters/mic-pop-guard-pup/download.zip)
 - [Namecard Sleeve Collector](./characters/namecard-sleeve-collector/download.zip)
@@ -46,5 +47,7 @@ Each ZIP contains the files needed to install and display the character locally,
 2. Extract the ZIP locally.
 3. Add the extracted character folder to your local PETS folder.
 4. Restart or refresh the host app and select the character.
+
+For Luma Sprint Scout, open `wallpapers/README.md` in the extracted folder and manually select the PC background matching your display. Wallpaper setup is not automatic.
 
 The packages are independent custom character assets. Redistribution, resale as-is, or claims of official endorsement are not included.
