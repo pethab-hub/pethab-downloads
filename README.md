@@ -41,8 +41,12 @@ Each package now has a stable package number such as `PETHAB-DL-001` so X/social
 | PETHAB-DL-028 | PETHAB-DL-028: Voice Memo Shell Listener | `voice-memo-shell-listener` | [download.zip](./characters/voice-memo-shell-listener/download.zip) | 0 | `#PETHABDL028` |
 | PETHAB-DL-029 | PETHAB-DL-029: White Sprint Runner | `white-sprint-runner` | [download.zip](./characters/white-sprint-runner/download.zip) | 2 | `#PETHABDL029` |
 | PETHAB-DL-030 | PETHAB-DL-030: Window Operator Muse | `window-operator-muse` | [download.zip](./characters/window-operator-muse/download.zip) | 1 | `#PETHABDL030` |
+| PETHAB-DL-031 | PETHAB-DL-031: Aster Chalk Witch | `aster-chalk-witch` | [download.zip](./characters/aster-chalk-witch/download.zip) | 6 | `#PETHABDL031` |
+| PETHAB-DL-032 | PETHAB-DL-032: Mio Prism Caster | `mio-prism-caster` | [download.zip](./characters/mio-prism-caster/download.zip) | 6 | `#PETHABDL032` |
+| PETHAB-DL-033 | PETHAB-DL-033: Koharu Bloom Witch | `koharu-bloom-witch` | [download.zip](./characters/koharu-bloom-witch/download.zip) | 6 | `#PETHABDL033` |
+| PETHAB-DL-034 | PETHAB-DL-034: Koyori Rune Binder | `koyori-rune-binder` | [download.zip](./characters/koyori-rune-binder/download.zip) | 6 | `#PETHABDL034` |
 
-PC backgrounds are bundled in 18 packages. `PC backgrounds` shows the number of wallpaper image files included inside the ZIP, excluding preview images.
+PC backgrounds are bundled in 22 packages. `PC backgrounds` shows the number of wallpaper image files included inside the ZIP, excluding preview images.
 
 ## Use
 

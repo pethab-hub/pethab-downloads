@@ -1,6 +1,6 @@
 {
   "schema": "pethab-download-package-index/v1",
-  "numbering": "PETHAB-DL-001 ascending by package directory name as of this release",
+  "numbering": "PETHAB-DL-001 stable sequential package numbers; new releases append without renumbering existing packages",
   "packages": [
     {
       "number": "PETHAB-DL-001",
@@ -271,6 +271,42 @@
       "download": "./characters/window-operator-muse/download.zip",
       "pcBackgrounds": 1,
       "xReference": "#PETHABDL030"
+    },
+    {
+      "number": "PETHAB-DL-031",
+      "title": "PETHAB-DL-031: Aster Chalk Witch",
+      "id": "aster-chalk-witch",
+      "displayName": "Aster Chalk Witch",
+      "download": "./characters/aster-chalk-witch/download.zip",
+      "pcBackgrounds": 6,
+      "xReference": "#PETHABDL031"
+    },
+    {
+      "number": "PETHAB-DL-032",
+      "title": "PETHAB-DL-032: Mio Prism Caster",
+      "id": "mio-prism-caster",
+      "displayName": "Mio Prism Caster",
+      "download": "./characters/mio-prism-caster/download.zip",
+      "pcBackgrounds": 6,
+      "xReference": "#PETHABDL032"
+    },
+    {
+      "number": "PETHAB-DL-033",
+      "title": "PETHAB-DL-033: Koharu Bloom Witch",
+      "id": "koharu-bloom-witch",
+      "displayName": "Koharu Bloom Witch",
+      "download": "./characters/koharu-bloom-witch/download.zip",
+      "pcBackgrounds": 6,
+      "xReference": "#PETHABDL033"
+    },
+    {
+      "number": "PETHAB-DL-034",
+      "title": "PETHAB-DL-034: Koyori Rune Binder",
+      "id": "koyori-rune-binder",
+      "displayName": "Koyori Rune Binder",
+      "download": "./characters/koyori-rune-binder/download.zip",
+      "pcBackgrounds": 6,
+      "xReference": "#PETHABDL034"
     }
   ]
 }
